@@ -14,8 +14,8 @@ este e meu repositorio sobre estudo do git
 - uma lista
 - outro item
 
-[ ]um check box
-[x]um check box selecionado
+- [ ]um check box
+- [x]um check box selecionado
 
 ## Comandos no Git:
 
